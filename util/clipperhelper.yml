@@ -1,0 +1,11 @@
+name: clipperhelper
+
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+
+dependencies:
+  - python=3.9
+  - pandas=1.5.3
+  - gtfparse=1.2.1
